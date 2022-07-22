@@ -1,0 +1,117 @@
+/configver 2
+/panels [<1>, <2>]
+/panels/dark-mode false
+/panels/panel-1/autohide-behavior uint32 0
+/panels/panel-1/background-alpha uint32 95
+/panels/panel-1/background-image '/home/karxlis/Downloads/bYe8lLw.png'
+/panels/panel-1/background-rgba [<0.067660999999999999>, <0.064044000000000004>, <0.073332999999999995>, <0.78859100000000004>]
+/panels/panel-1/background-style uint32 1
+/panels/panel-1/enter-opacity uint32 100
+/panels/panel-1/icon-size uint32 15
+/panels/panel-1/leave-opacity uint32 100
+/panels/panel-1/length uint32 86
+/panels/panel-1/length-adjust true
+/panels/panel-1/mode uint32 0
+/panels/panel-1/plugin-ids [<12>, <1>, <23>, <19>, <9>, <5>, <2>, <25>, <21>, <22>, <16>, <13>, <3>, <6>, <7>, <11>, <18>, <15>, <17>, <4>]
+/panels/panel-1/position 'p=0;x=955;y=1037'
+/panels/panel-1/position-locked true
+/panels/panel-1/size uint32 50
+/panels/panel-1/span-monitors false
+/panels/panel-2/enter-opacity uint32 0
+/panels/panel-2/leave-opacity uint32 0
+/panels/panel-2/length uint32 1
+/panels/panel-2/position 'p=4;x=1901;y=1037'
+/panels/panel-2/position-locked true
+/panels/panel-2/size uint32 84
+/plugins/plugin-1 'whiskermenu'
+/plugins/plugin-11 'weather'
+/plugins/plugin-11/cache-max-age 172800
+/plugins/plugin-11/forecast/days 5
+/plugins/plugin-11/forecast/layout 1
+/plugins/plugin-11/labels/label0 3
+/plugins/plugin-11/location/latitude '54.679300'
+/plugins/plugin-11/location/longitude '25.307300'
+/plugins/plugin-11/location/name 'Vilnius, Lithuania'
+/plugins/plugin-11/msl 101
+/plugins/plugin-11/offset '+03:00'
+/plugins/plugin-11/power-saving true
+/plugins/plugin-11/round true
+/plugins/plugin-11/scrollbox/animate true
+/plugins/plugin-11/scrollbox/color 'rgba(0,0,0,0)'
+/plugins/plugin-11/scrollbox/lines 1
+/plugins/plugin-11/scrollbox/show true
+/plugins/plugin-11/scrollbox/use-color false
+/plugins/plugin-11/single-row true
+/plugins/plugin-11/theme-dir '/usr/share/xfce4/weather/icons/simplistic'
+/plugins/plugin-11/timezone 'Europe/Vilnius'
+/plugins/plugin-11/tooltip-style 1
+/plugins/plugin-11/units/altitude 0
+/plugins/plugin-11/units/apparent-temperature 0
+/plugins/plugin-11/units/precipitation 0
+/plugins/plugin-11/units/pressure 0
+/plugins/plugin-11/units/temperature 0
+/plugins/plugin-11/units/windspeed 0
+/plugins/plugin-12 'separator'
+/plugins/plugin-12/enable-keyboard-shortcuts true
+/plugins/plugin-12/enable-mpris true
+/plugins/plugin-12/mixer-command 'pavucontrol'
+/plugins/plugin-12/show-notifications false
+/plugins/plugin-12/style uint32 0
+/plugins/plugin-13 'pulseaudio'
+/plugins/plugin-13/digital-format '%H:%M'
+/plugins/plugin-13/enable-keyboard-shortcuts true
+/plugins/plugin-13/mpris-players 'firefox.instance11995;firefox.instance13772;firefox.instance16062;firefox.instance16250;firefox.instance16769;firefox.instance17052;firefox.instance17272;firefox.instance18006;firefox.instance19347;firefox.instance19916;firefox.instance19934;firefox.instance20758;firefox.instance2451;firefox.instance25330;firefox.instance2634;firefox.instance2662;firefox.instance2681;firefox.instance2689;firefox.instance2693;firefox.instance2696;firefox.instance2701;firefox.instance2705;firefox.instance2717;firefox.instance2732;firefox.instance2741;firefox.instance2798;firefox.instance2815;firefox.instance2817;firefox.instance2826;firefox.instance2843;firefox.instance2851;firefox.instance28713;firefox.instance2875;firefox.instance2883;firefox.instance2893;firefox.instance2941;firefox.instance2953;firefox.instance29931;firefox.instance3006;firefox.instance3043;firefox.instance3046;firefox.instance3090;firefox.instance3095;firefox.instance3180;firefox.instance3185;firefox.instance3208;firefox.instance3237;firefox.instance3290;firefox.instance3313;firefox.instance3317;firefox.instance3356;firefox.instance3386;firefox.instance3400;firefox.instance3497;firefox.instance3535;firefox.instance3565;firefox.instance3600;firefox.instance3632;firefox.instance3743;firefox.instance4018;firefox.instance4241;firefox.instance4540;firefox.instance4989;firefox.instance5046;firefox.instance50786;firefox.instance5184;firefox.instance53181;firefox.instance5798;firefox.instance63112;firefox.instance6472;firefox.instance807405;firefox.instance8599;firefox.instance9006;io.github.celluloid_player.Celluloid.instance-1;rhythmbox;spotify'
+/plugins/plugin-13/show-notifications false
+/plugins/plugin-15 'separator'
+/plugins/plugin-15/style uint32 0
+/plugins/plugin-16 'power-manager-plugin'
+/plugins/plugin-17 'clock'
+/plugins/plugin-17/digital-format '%I:%M %p  %n     %m/%d'
+/plugins/plugin-17/mode uint32 2
+/plugins/plugin-18 'separator'
+/plugins/plugin-18/expand false
+/plugins/plugin-18/style uint32 0
+/plugins/plugin-19 'notification-plugin'
+/plugins/plugin-2 'separator'
+/plugins/plugin-2/expand true
+/plugins/plugin-2/style uint32 0
+/plugins/plugin-21 'separator'
+/plugins/plugin-21/style uint32 2
+/plugins/plugin-22 'separator'
+/plugins/plugin-22/style uint32 0
+/plugins/plugin-23 'launcher'
+/plugins/plugin-23/items [<'16576772411.desktop'>]
+/plugins/plugin-25 'separator'
+/plugins/plugin-25/expand false
+/plugins/plugin-25/style uint32 0
+/plugins/plugin-3 'systray'
+/plugins/plugin-3/hidden-items [<'steam'>, <'qBittorrent'>, <'join?action=join&confno=83824517656&uname=Karolis%20Ge%C4%8Dys&confid=dXRpZD1VVElEXzNlODMzMjA2YjcxODQ1MGNiZjc3ODRlZTk3NTBlZWZjJnVzcz03c1U5N0FiTjVLSVZmVkQwaFhBUWV2bFFhcVBCUllzcDdPc0lmOUstS2RwSHI0SjNNTnFpVG5FcFFUTGx6OFJwMDFMRVZFTm51ZE5qSktSb2hweWtVVGRWeEEuc2g0WXJBMURidXlrT3ZxSyZ0aWQ9MjhjZWE3ODc4MzNlNGI2MGJhNjJjMzhiNjUyYmMwYzI%3D&browser=firefox'>, <'discord1'>, <'The KDE Crash Handler'>, <'indicator-solaar'>]
+/plugins/plugin-3/hidden-legacy-items [<'blueberry-tray.py'>, <'mintupdate.py'>, <'rhythmbox'>, <'thunar'>, <'steam'>, <'tray.py'>, <'nvidia-prime'>, <'discord'>, <'solaar'>]
+/plugins/plugin-3/hide-new-items true
+/plugins/plugin-3/icon-size 16
+/plugins/plugin-3/items [<'16580179173.desktop'>]
+/plugins/plugin-3/known-items [<'indicator-solaar'>, <'The KDE Crash Handler'>, <'join?action=join&confno=83824517656&uname=Karolis%20Ge%C4%8Dys&confid=dXRpZD1VVElEXzNlODMzMjA2YjcxODQ1MGNiZjc3ODRlZTk3NTBlZWZjJnVzcz03c1U5N0FiTjVLSVZmVkQwaFhBUWV2bFFhcVBCUllzcDdPc0lmOUstS2RwSHI0SjNNTnFpVG5FcFFUTGx6OFJwMDFMRVZFTm51ZE5qSktSb2hweWtVVGRWeEEuc2g0WXJBMURidXlrT3ZxSyZ0aWQ9MjhjZWE3ODc4MzNlNGI2MGJhNjJjMzhiNjUyYmMwYzI%3D&browser=firefox'>, <'qBittorrent'>, <'discord1'>, <'steam'>]
+/plugins/plugin-3/known-legacy-items [<'solaar'>, <'thunar'>, <'rhythmbox'>, <'discord'>, <'steam'>, <'tray.py'>, <'networkmanager applet'>, <'mintupdate.py'>, <'nvidia-prime'>, <'blueberry-tray.py'>]
+/plugins/plugin-3/single-row true
+/plugins/plugin-3/square-icons true
+/plugins/plugin-3/symbolic-icons false
+/plugins/plugin-4 'separator'
+/plugins/plugin-4/items [<'16580179174.desktop'>]
+/plugins/plugin-4/style uint32 0
+/plugins/plugin-5 'docklike'
+/plugins/plugin-5/items [<'thunar.desktop'>]
+/plugins/plugin-6 'xkb'
+/plugins/plugin-6/caps-lock-indicator true
+/plugins/plugin-6/display-name uint32 1
+/plugins/plugin-6/display-scale uint32 30
+/plugins/plugin-6/display-tooltip-icon true
+/plugins/plugin-6/display-type uint32 2
+/plugins/plugin-6/group-policy uint32 0
+/plugins/plugin-6/middle-click uint32 1
+/plugins/plugin-6/show-handle false
+/plugins/plugin-7 'separator'
+/plugins/plugin-7/expand false
+/plugins/plugin-7/style uint32 0
+/plugins/plugin-9 'separator'
+/plugins/plugin-9/expand false
+/plugins/plugin-9/style uint32 0
